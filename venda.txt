@@ -1,0 +1,2 @@
+alface|5|Verduras|joao|caio|2|13/02/2023
+Banana|5|Frutas|Tiago|Caio|20|13/02/2023
